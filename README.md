@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · insvanshu</sub></p>
 <h1>IMMADI NAGA SAI VANSHIKA</h1>
 <h2>Software Engineering &amp; Machine Learning</h2>
-<p>Computer Science undergraduate (B.Tech, CGPA 8.33) with hands-on experience in machine learning, deep learning, reinforcement learning, and backend development in Python and Java. Built and deployed PyTorch models and containerized REST APIs (FastAPI, Docker), evaluated with ROC-AUC, sensitivity, and specificity. Solid grounding in data structures, algorithms, OOP, Git, and SQL/NoSQL databases. Seeking a Software Engineering Internship at Apple Ads to apply machine learning and data analysis to ad relevance and performance.</p>
+<p>Computer Science undergraduate (B.Tech, CGPA 8.33) with hands-on experience in machine learning, deep learning, reinforcement learning, and backend development in Python and Java. Built and deployed PyTorch models and containerized REST APIs (FastAPI, Docker), evaluated with ROC-AUC, sensitivity, and specificity. Solid grounding in data structures, algorithms, OOP, Git, and SQL/NoSQL databases. .</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/insvanshu">GitHub</a> &nbsp;·&nbsp; <a href="mailto:vanshikaimmadi21@gmail.com">Email</a></p>
